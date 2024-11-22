@@ -9,6 +9,6 @@ cd $HOME
 rm -rf OLD
 git clone --depth=1 https://github.com/SHAJON-404/OLD.git
 cd OLD
-chmod 777 OLD
+chmod 777 SHAJON
 ./SHAJON
 ```
